@@ -97,7 +97,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(186, 36);
             this.label2.TabIndex = 4;
-            this.label2.Text = "대응 칩셋조합기 버전 : 4.0.0\r\n최종 컴파일: 2019-03-29 PM 4:42\r\n제작 : runner38";
+            this.label2.Text = "대응 칩셋조합기 버전 : 4.0.0\r\n최종 컴파일: 2019-05-02 PM 7:29\r\n제작 : runner38";
             // 
             // comboBox1
             // 
@@ -161,7 +161,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Automatic Chipset Adder v1.41";
+            this.Text = "Automatic Chipset Adder v1.5";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

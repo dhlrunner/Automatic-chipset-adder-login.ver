@@ -25,3 +25,4 @@ H:\Visual Studio 2017\Projects\gf_chip_json_parse\gf_chip_json_parse\obj\Release
 H:\Visual Studio 2017\Projects\gf_chip_json_parse\gf_chip_json_parse\obj\Release\gf_chip_json_parse.exe
 H:\Visual Studio 2017\Projects\gf_chip_json_parse\gf_chip_json_parse\obj\Release\gf_chip_json_parse.pdb
 H:\Visual Studio 2017\Projects\gf_chip_json_parse\gf_chip_json_parse\obj\Release\gf_chip_json_parse.csproj.Fody.CopyLocal.cache
+H:\Visual Studio 2017\Projects\gf_chip_json_parse\gf_chip_json_parse\obj\Release\gf_chip_json_parse.Form2.resources
